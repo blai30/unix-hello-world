@@ -1,13 +1,13 @@
-/**
- * CSC 415 Assignment 1
-*/
-#include <unistd.h>
 #include <stdio.h>
+#include <unistd.h>
+#include <stdlib.h>
+//You may also add more include directives as well.
 
 
 
 int
-main(int argc,  char** argv)
+main(int argc, char const *argv[])
 {
+
 	return 0;
 }

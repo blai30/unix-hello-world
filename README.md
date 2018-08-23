@@ -1,11 +1,9 @@
-# csc415-p1
+# CSC 415 - Project 1 - Hello World
 
-## Please fill in the following before the due date:
- 1. Student Name  :
- 2. Student ID    : 
- 3. Student Email :
+## Student Name : Name Goes Here
 
+## Student ID   : Student ID goes here
 
-## Building Instructions
+## Build Instructions
 
 ## Run Instructions
