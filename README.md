@@ -1,8 +1,8 @@
 # CSC 415 - Project 1 - Hello World
 
-## Student Name : Name Goes Here
+## Student Name : Brian Lai
 
-## Student ID   : Student ID goes here
+## Student ID   : 916818167
 
 ## Build Instructions
 
