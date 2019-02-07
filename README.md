@@ -40,3 +40,6 @@ If filename was given while building, where filename is the file's name
 ```
 ./hw
 ```
+
+## What the program does
+The program will print a line of text introducing me and telling the class that I wrote this program. In fact, the program will print out this exact line: `CSC 415, This program has been written by Brian Lai!`
